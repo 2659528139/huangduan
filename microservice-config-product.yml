@@ -45,7 +45,7 @@ mybatis:
 spring:
  profiles: prod
  application:
-  name:microservice-product-config-location222
+  name: microservice-product-config-location222
  datasource:
     type: com.alibaba.druid.pool.DruidDataSource # 当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver # mysql驱动包
